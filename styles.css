@@ -6,7 +6,8 @@
 }
 
 body {
-  background-color: var(--pseudo-color);
+  /* background-color: var(--pseudo-color); */
+  background-color: red;
 }
 
 .navbar-a {
