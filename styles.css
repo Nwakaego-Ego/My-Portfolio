@@ -182,4 +182,8 @@ button {
     width: 350px;
     border-radius: 8px;
   }
+
+  .ego-image {
+    width: 900px;
+  }
 }
