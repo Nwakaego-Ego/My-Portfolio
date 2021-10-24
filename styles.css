@@ -166,4 +166,20 @@ button {
   .navbar-button {
     margin-right: 10px;
   }
+  .about-me {
+    font-size: 60px;
+  }
+
+  .about-image {
+    display: none;
+  }
+
+  .weather-app {
+    text-align: center;
+  }
+
+  .button-description {
+    width: 350px;
+    border-radius: 8px;
+  }
 }
